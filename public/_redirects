@@ -1,0 +1,11 @@
+# The feeds are plain files; serve them at their old WordPress addresses
+/feed /feed.xml 200
+/feed/ /feed.xml 200
+/comments/feed /comments-feed.xml 200
+/comments/feed/ /comments-feed.xml 200
+
+# Old WordPress sitemap files now live in one file
+/wp-sitemap-posts-post-1.xml /wp-sitemap.xml 301
+/wp-sitemap-posts-page-1.xml /wp-sitemap.xml 301
+/wp-sitemap-taxonomies-category-1.xml /wp-sitemap.xml 301
+/wp-sitemap-users-1.xml /wp-sitemap.xml 301

@@ -1,0 +1,192 @@
+{
+ "title": "Ashley Guberman, Open Musings",
+ "description": "Radiance, Love, Discernment, Power, & Leadership",
+ "url": "https://ashleyguberman.com",
+ "author": {
+  "slug": "ashleyg",
+  "name": "Ashley Guberman"
+ },
+ "posts_per_page": 10,
+ "label_overrides": {
+  "Refelctions": "Reflections",
+  "how-to: web sites for coahces": "how-to: web sites for coaches"
+ },
+ "categories": [
+  {
+   "id": 1,
+   "slug": "uncategorized",
+   "name": "Uncategorized",
+   "parent": null
+  },
+  {
+   "id": 2,
+   "slug": "bike",
+   "name": "Bicycling",
+   "parent": null
+  },
+  {
+   "id": 3,
+   "slug": "consulting",
+   "name": "consulting",
+   "parent": null
+  },
+  {
+   "id": 4,
+   "slug": "children",
+   "name": "For My Children",
+   "parent": null
+  },
+  {
+   "id": 5,
+   "slug": "land",
+   "name": "Land",
+   "parent": null
+  },
+  {
+   "id": 6,
+   "slug": "miscellaneous",
+   "name": "miscellaneous",
+   "parent": null
+  },
+  {
+   "id": 7,
+   "slug": "outdoors",
+   "name": "Outdoors",
+   "parent": null
+  },
+  {
+   "id": 8,
+   "slug": "outward-bound",
+   "name": "Outward Bound",
+   "parent": null
+  },
+  {
+   "id": 9,
+   "slug": "refelctions",
+   "name": "Refelctions",
+   "parent": null
+  },
+  {
+   "id": 10,
+   "slug": "sky",
+   "name": "Sky",
+   "parent": null
+  },
+  {
+   "id": 11,
+   "slug": "water",
+   "name": "Water",
+   "parent": null
+  }
+ ],
+ "nav": [
+  {
+   "label": "For My Children",
+   "href": "/category/children/",
+   "children": []
+  },
+  {
+   "label": "Land",
+   "href": "/category/land/",
+   "children": []
+  },
+  {
+   "label": "Water",
+   "href": "/category/water/",
+   "children": []
+  },
+  {
+   "label": "Sky",
+   "href": "/category/sky/",
+   "children": []
+  },
+  {
+   "label": "Outdoors",
+   "href": "/category/outdoors/",
+   "children": [
+    {
+     "label": "Bicycling",
+     "href": "/category/bike/",
+     "children": []
+    },
+    {
+     "label": "Outward Bound",
+     "href": "/category/outward-bound/",
+     "children": []
+    }
+   ]
+  },
+  {
+   "label": "Refelctions",
+   "href": "/category/refelctions/",
+   "children": []
+  },
+  {
+   "label": "My Other Sites",
+   "href": "/where-to-start/",
+   "children": [
+    {
+     "label": "Coaching & Leadership Development",
+     "href": "http://primarygoals.com/",
+     "children": []
+    },
+    {
+     "label": "OD Resources",
+     "href": "http://primarygoals.org",
+     "children": []
+    },
+    {
+     "label": "Configuration Management",
+     "href": "http://www.primarygoals.net/config/",
+     "children": []
+    },
+    {
+     "label": "how-to: web sites for coahces",
+     "href": "http://thatwebcoach.com",
+     "children": []
+    },
+    {
+     "label": "Essential EQ for techies",
+     "href": "http://www.CollaborativeGeek.com",
+     "children": []
+    },
+    {
+     "label": "My LinkedIn Profile",
+     "href": "http://linkedin.com/in/ashleyguberman",
+     "children": []
+    },
+    {
+     "label": "Client Sites I manage",
+     "href": "#",
+     "children": [
+      {
+       "label": "Media Reactions",
+       "href": "http://MediaReactions.com",
+       "children": []
+      },
+      {
+       "label": "DR TV Results",
+       "href": "http://drtvresults.com",
+       "children": []
+      },
+      {
+       "label": "Conference, Inc.",
+       "href": "http://conferenceinc.com",
+       "children": []
+      },
+      {
+       "label": "Accomplishment Coaching",
+       "href": "http://accomplishmentcoaching.com",
+       "children": []
+      },
+      {
+       "label": "Find-a-Coach",
+       "href": "http://www.accomplishmentcoaching.com/find-a-coach/index.php?id=21&id=22&id=34&id=101&id=102&id=174&idp=187",
+       "children": []
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

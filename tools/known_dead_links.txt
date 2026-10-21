@@ -1,0 +1,15 @@
+# Internal links inside old posts that point at pages of the pre-WordPress site.
+# Those files were not in the WordPress archive, so they are dead (and were dead before the move).
+# tools/check_site.py ignores these so that any NEW broken link stands out.
+/2002-seattle-to-portland-bicycle-ride/Bridge2Bridge.htm
+/2002-seattle-to-portland-bicycle-ride/stp2004.htm
+/2004-seattle-to-portland-bicycle-ride/stp2002.htm
+/2005-seattle-to-portland-bicycle-ride/stp2004.htm
+/bridge-to-bridge-bicycle-ride/stp2002.htm
+/bridge-to-bridge-bicycle-ride/stp2004.htm
+/climbing-lessons/yosemite.htm
+/other/RoadTrip.htm
+/putting-it-all-together/WhidbeyGeneral.html
+/rss.xml
+/rss20.gif
+/water/WingedCorks.htm
