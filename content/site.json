@@ -126,7 +126,7 @@
    "href": "/where-to-start/",
    "children": [
     {
-     "label": "Coaching & Leadership Development",
+     "label": "Notion Consulting",
      "href": "http://primarygoals.com/",
      "children": []
     },
@@ -136,55 +136,9 @@
      "children": []
     },
     {
-     "label": "Configuration Management",
-     "href": "http://www.primarygoals.net/config/",
-     "children": []
-    },
-    {
-     "label": "how-to: web sites for coahces",
-     "href": "http://thatwebcoach.com",
-     "children": []
-    },
-    {
-     "label": "Essential EQ for techies",
-     "href": "http://www.CollaborativeGeek.com",
-     "children": []
-    },
-    {
      "label": "My LinkedIn Profile",
      "href": "http://linkedin.com/in/ashleyguberman",
      "children": []
-    },
-    {
-     "label": "Client Sites I manage",
-     "href": "#",
-     "children": [
-      {
-       "label": "Media Reactions",
-       "href": "http://MediaReactions.com",
-       "children": []
-      },
-      {
-       "label": "DR TV Results",
-       "href": "http://drtvresults.com",
-       "children": []
-      },
-      {
-       "label": "Conference, Inc.",
-       "href": "http://conferenceinc.com",
-       "children": []
-      },
-      {
-       "label": "Accomplishment Coaching",
-       "href": "http://accomplishmentcoaching.com",
-       "children": []
-      },
-      {
-       "label": "Find-a-Coach",
-       "href": "http://www.accomplishmentcoaching.com/find-a-coach/index.php?id=21&id=22&id=34&id=101&id=102&id=174&idp=187",
-       "children": []
-      }
-     ]
     }
    ]
   }
