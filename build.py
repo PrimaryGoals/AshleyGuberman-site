@@ -602,7 +602,9 @@ def main():
         '  Cache-Control: public, max-age=31536000',
         '',
         '# Keep the temporary pages.dev addresses (previews) out of search engines',
-        'https://*.pages.dev/*',
+        'https://:project.pages.dev/*',
+        '  X-Robots-Tag: noindex',
+        'https://:version.:project.pages.dev/*',
         '  X-Robots-Tag: noindex',
         '',
     ])
